@@ -125,6 +125,6 @@ Below is the workflow of the application, demonstrating the menu, input process,
 **Bhagyashree Mali**
 *Java Developer*
 
-Project Link: [https://github.com/your-username/Java-Console-Calculator](https://github.com/your-username/Java-Console-Calculator)
+Project Link: https://github.com/bhagyashreemali/JAVA-CONSOLE-CALCULATOR
 
 ---
